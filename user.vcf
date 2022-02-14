@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Vargas;Camilo;;;
-FN: Camilo Vargas
+N:Rodríguez;Diana Milena;;;
+FN: Diana Milena Rodríguez
 ORG:Fresenius Kabi Colombia;
 TITLE:Representante de Promoción y Ventas
-EMAIL;type=INTERNET;type=WORK;type=pref:camilo.vargas@fresenius-kabi.com
-TEL;type=WORK;type=VOICE:++57 3222341520
+EMAIL;type=INTERNET;type=WORK;type=pref:diana.rodriguez-martinez@fresenius-kabi.com
+TEL;type=WORK;type=VOICE:++57 3183299526
 item1.ADR;type=WORK;type=pref:;;Avenida Carrera 7 # 155c - 20;;;Piso 40;Bogotá, Colombia
 item1.X-ABADR:sg
 item2.URL;type=pref:tech.gov.sg
